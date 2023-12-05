@@ -45,7 +45,7 @@ class ResidentialTest {
 
 	@Test
 	void testSetSize() {
-		House h1 = new House("Mi casita de amor", 31415, 12.3, 45.6, 3, 1.5, 3, 1);
+		House h1 = new House("TheWhiteHouse", 84601, 12.3, 50.0, 4, 2.5, 3, 1);
 		h1.setYardAcres(4);
 		Assertions.assertEquals(h1.getYardAcres(), 4);
 	}
