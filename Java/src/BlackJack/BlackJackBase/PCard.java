@@ -2,17 +2,6 @@ package BlackJackBase;
 
 import java.awt.Color;
 
-/**
- * Base class used to create a playing card. This class is extended by another
- * class that overrides the necessary methods to create usability and visual
- * appeal.
- * 
- * @author Jared N. Plumb
- * @version 1.0
- * @since 2018-05-25
- * @Minor modifications by Jeff Light
- * @since 2019-11-01
- */
 public abstract class PCard {
 
 	/** Sets the card to the face down state. */
@@ -55,8 +44,9 @@ public abstract class PCard {
 		return Color.LIGHT_GRAY;
 	}
 
-	/** Returns the alternative color used on the cards background. */
+
 	public Color getStripeColor() {
 		return Color.LIGHT_GRAY;
 	}
 }
+//end of BlackJackBase
