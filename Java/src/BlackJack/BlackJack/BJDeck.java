@@ -1,14 +1,3 @@
-/**
-* Assignment: Lab 9b
-* File: BJDeck.java
-* Description: Creates a new java class that implements PDeck
-* Lessons Learned: Implements PDeck. It will contain an arraylist and we created a method that creates all the cards. 
-*
-* Instructor's Name: Barbara Chamberlin
-*
-* @author: Dereck Angeles
-* @since: 11/14/2022
-*/
 package BlackJack;
 
 import java.util.ArrayList;
