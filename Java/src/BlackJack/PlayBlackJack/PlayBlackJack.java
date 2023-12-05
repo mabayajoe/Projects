@@ -1,14 +1,3 @@
-/**
-* Assignment: Lab 9b
-* File: PlayBlackJack.java
-* Description: This is the main class. 
-* Lessons Learned: Comment our previos code and tyoe new code that shows all the cards. 
-*
-* Instructor's Name: Barbara Chamberlin
-*
-* @author: Dereck Angeles
-* @since: 11/16/2022
-*/
 package BlackJackTest;
 
 import java.awt.Color;
