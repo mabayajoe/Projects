@@ -1,6 +1,0 @@
-{
-    "appointments": [
-      { "id": 1, "date": "2024-09-11", "time": "10:00 AM", "doctor": "Dr. Smith" },
-      { "id": 2, "date": "2024-09-11", "time": "11:00 AM", "doctor": "Dr. Jones" }
-    ]
-  }
